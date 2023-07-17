@@ -1,6 +1,6 @@
 # Task page
 
-(![Alt text](Test task_ AiroMedical.pdf))
+![](Test task_ AiroMedical.pdf)
 
 # Getting Started with Create React App
 
