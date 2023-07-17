@@ -1,10 +1,6 @@
 # Task page
 
-[](testing-task.PNG)
-
-## Screenshot
-
-[](screenshot.PNG)
+[](Test_task_AiroMedical.pdf)
 
 # Getting Started with Create React App
 
