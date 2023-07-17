@@ -1,6 +1,6 @@
 # Task page
 
-[](screenshot.PNG)
+![](images_screenshot/screenshot.PNG)
 
 # Getting Started with Create React App
 
